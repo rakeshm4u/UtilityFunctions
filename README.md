@@ -1,4 +1,7 @@
 # UtilityFunctions
+
+Function1:
+
 Fillo is an Excel API Library for Java
 This library helps treat the excel tabs as database tables and the sheet content as table rows and columns. This helps to treat the excel as a database and using sql query-like syntax we can retrieve the data from excel sheets. We can use this in the DataProvider method of TestNG framework to fetch data from local excel to fed to the test scripts
 Now, it supports SELECT, UPDATE & INSERT queries with or without WHERE clause.
